@@ -1,3 +1,0 @@
-* Test
-#+OPTIONS: tex:t
-$x_1$
